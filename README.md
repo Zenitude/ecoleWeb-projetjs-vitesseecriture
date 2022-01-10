@@ -7,4 +7,4 @@
 
 > Projet Précédent : [Jeu du Casse-Briques](https://github.com/Zenitude/ecoleWeb-projetjs-cassebriques)
 
-> Projet Suivant : `Jeu du Morpion`
+> Projet Suivant : [Jeu du Morpion](https://github.com/Zenitude/ecoleWeb-projetjs-morpion)
